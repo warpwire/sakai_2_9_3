@@ -1,4 +1,4 @@
-#Warpwire Sakai 2.9 Install Instructions
+# Warpwire Sakai 2.9 Install Instructions #
 
 The steps to add the Warpwire Sakai plugin to a Sakai 2.9 instance are as follows:
 
